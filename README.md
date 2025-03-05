@@ -18,8 +18,8 @@
 **Others:** GraphQL, REST APIs, Microservices  
 
 ### 📌 Featured Projects  
-🚀 **[Chill Panda Tech]** – Scalable AI-driven customer engagement platform (https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io)   
-🛠 **[Quantiple Fintech]** – Automated option trading system for the Indian stock market ()
+🚀 **[Chill Panda Tech](https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io)** – Scalable AI-driven customer engagement platform   
+🛠 **[Quantiple Fintech](https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io)** – Automated option trading system for the Indian stock market
 
 ### 📫 Connect with Me  
 [LinkedIn](https://linkedin.com/in/deepakbasavaraju16) | [GitHub](https://github.com/fuzzy-rotary-phone)
