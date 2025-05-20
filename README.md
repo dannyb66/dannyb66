@@ -1,4 +1,4 @@
-# Hi, I'm Deepak Basavaraju 👋  
+# Hi, I'm Danny Basavaraju 👋  
 
 🚀 **Software Engineer | AI & Scalable Systems | Ex-CPTO & Founding Engineer**  
 📍 **Based in the Bay Area | Building Scalable & Intelligent Systems**  
