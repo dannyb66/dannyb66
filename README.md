@@ -13,7 +13,7 @@
 **Languages:** Python, JavaScript/TypeScript, Java
 **Frameworks:** Node.js, React, Next.js, Angular
 **Databases:** PostgreSQL, MongoDB, Redis  
-**Cloud & DevOps:** AWS, Kubernetes, Terraform, Docker  
+**Cloud & DevOps:** AWS, Snowflake, GCP, Kubernetes, Terraform, Docker  
 **AI/ML:** TensorFlow, PyTorch, LangChain, LLMs  
 **Others:** GraphQL, REST APIs, Microservices  
 
