@@ -10,8 +10,8 @@
 - 🎯 Looking for **exciting opportunities in Bay Area startups**  
 
 ### 🚀 My Tech Stack  
-**Languages:** Python, JavaScript/TypeScript, Java
-**Frameworks:** Node.js, React, Next.js, Angular
+**Languages:** Python, JavaScript/TypeScript, Java  
+**Frameworks:** Node.js, React, Next.js, Angular  
 **Databases:** PostgreSQL, MongoDB, Redis  
 **Cloud & DevOps:** AWS, Snowflake, GCP, Kubernetes, Terraform, Docker  
 **AI/ML:** TensorFlow, PyTorch, LangChain, LLMs  
