@@ -20,7 +20,7 @@
 ### 📌 Featured Projects  
 🚀 **[Chill Panda Tech](https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io)** – Scalable AI-driven customer engagement platform   
 🛠 **[Quantiple Fintech](https://github.com/fuzzy-rotary-phone/fuzzy-rotary-phone.github.io)** – Automated option trading system for the Indian stock market   
-🛠 **[Dental Chatbot (Resonate AI)]([https://github.com/dannyb66/dental-chatbot])** – An AI-powered Dental Assistant Chatbot designed to streamline patient scheduling, handle complex family bookings, and provide a natural, human-like conversational experience.
+🛠 **[Dental Chatbot (Resonate AI)](https://github.com/dannyb66/dental-chatbot)** – An AI-powered Dental Assistant Chatbot designed to streamline patient scheduling, handle complex family bookings, and provide a natural, human-like conversational experience.
 
 ### 📫 Connect with Me  
-[LinkedIn](https://linkedin.com/in/deepakbasavaraju16) | [GitHub](https://github.com/fuzzy-rotary-phone)
+[LinkedIn](https://linkedin.com/in/dannybasavaraju) | [GitHub](https://github.com/fuzzy-rotary-phone)
